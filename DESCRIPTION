@@ -1,4 +1,8 @@
-Package: chattr-basic-sgs
+Package: chatter.basic.sgs
 Type: Package
 Title: Port of marisacasillas/chattr- basic
 Version: 0.0.1.0
+Author: S G
+Maintainer: S G <bababooey@dispostable.com>
+Description: funky language stuff
+License: GPL (>= 2)
