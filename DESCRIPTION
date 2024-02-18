@@ -1,0 +1,4 @@
+Package: chattr-basic-sgs
+Type: Package
+Title: Port of marisacasillas/chattr- basic
+Version: 0.0.1.0
