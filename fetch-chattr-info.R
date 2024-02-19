@@ -126,6 +126,7 @@ fetch_chatter_AAS <- function(
   return(ttinfotbls)
 }
 
+@export
 fetch_chatter_BST <- function(
   # read_spchtbl() arguments
   tbl, target.ptcp, tbltype = "basic-speech-tbl",
